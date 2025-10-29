@@ -1,0 +1,5 @@
+{
+  "name": "Evolution 4.0",
+  "description": "A web application to digitize and analyze physical assessment forms using AI. Users can input data from a standard fitness evaluation, and then use Gemini to generate a comprehensive analysis and summary of the results.",
+  "requestFramePermissions": []
+}
